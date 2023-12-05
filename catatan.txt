@@ -1,0 +1,5 @@
+untuk login admin, 
+username : admin
+password : admin
+
+untuk login panel perusahaan rental bisa buat akun di laman admin
